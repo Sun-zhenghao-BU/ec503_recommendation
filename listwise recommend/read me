@@ -1,1 +1,9 @@
+There are three models, actor, critic and embedding, embedding is used to generate another representation of each item.
 
+Embedding data of IMDB movie dataset is well trained and stored in the 'embeddings.csv' file
+
+Embedding data of MIND dataset is yet to be trained well enough and will be stored in 'embeddings2.csv' file
+
+In 'save' diectory, the actor and critic model session, which is well trained, has been stored here. 
+
+Run the main file
