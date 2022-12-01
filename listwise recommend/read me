@@ -1,6 +1,8 @@
 There are three models, actor, critic and embedding, embedding is used to generate another representation of each item.
 
-'ml-100k' diectory stores the IMDB data, 'MIND_small' stores the MIND dataset
+'ml-100k' diectory stores the IMDB data
+
+'MIND_small' stores the MIND dataset. It is too large to upload, please download MIND_small from https://msnews.github.io/
 
 Embedding data of IMDB movie dataset is well trained and stored in the 'embeddings.csv' file
 
