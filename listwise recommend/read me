@@ -6,4 +6,7 @@ Embedding data of MIND dataset is yet to be trained well enough and will be stor
 
 In 'save' diectory, the actor and critic model session, which is well trained, has been stored here. 
 
+The only differences between 'Data_Generator_news.py' and 'Data_Generator.py' and between 'train_embeddings_news.py' and 'train_embeddings.py' are the ones with '_news'
+are based on the MIND, the others are based on the 'IMDB'
+
 Run the main file
