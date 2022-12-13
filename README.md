@@ -5,7 +5,6 @@
  ### 1.Introduction
 
 
-
  ### 2.Qucik Start
  - ***DQN_MAB***:  
 
@@ -20,4 +19,5 @@
  - ***listwise recommend***:  
 
 
- ### 3.
+ ### 3.Environment Setup
+ 
