@@ -1,6 +1,6 @@
  # EC503_Recommendation System
 
- ## Zhenghao Sun, Shu Yang, Shenyou Fan, Pham Quan
+ ## Zhenghao Sun, Shu Yang, Shenyou Fan, Quan Pham
 
  ### 1.Introduction
 With the rapid development of computer technology and the rise of data learning, all aspects of our daily lives are becoming inseparable from all kinds of
