@@ -24,9 +24,7 @@ and compare the impact of different reward functions on different methods.
 
 
  ### 3.Environment Setup
- We are tring to use UNet model to complete our project.
-
-After using UNet_model.py we have to setup our enivironment first. They can be activated with:
+After running all the file before we have to setup our enivironment first. They can be activated with:
 
 ```
 pip install -r requirements.txt
