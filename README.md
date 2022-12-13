@@ -11,19 +11,16 @@ and compare the impact of different reward functions on different methods.
 
  ### 2.Qucik Start
  - ***DQN_MAB***:  
-
+We implement the DQN to solve the recommendation based on the genre of the movie
  - ***DQN_new***:   
-
- - ***DQN_new_dataset***:  
-
+We implement the DQN to slove the recommendation based on the rating history of the cutomer
  - ***Q-learning_MAB***:  
-
+We implement Q-learning to slove the multiple-armed bandit problem with e-greedy algoritm
  - ***list_wise_new***:  
-
- - ***listwise recommend***:  
-
+We implement DQN with actor-critic structure and embedding preprocess to solve the list-wise recommendation task
 
  ### 3.Environment Setup
+python 3.9
 After running all the file before we have to setup our enivironment first. They can be activated with:
 
 ```
