@@ -26,3 +26,17 @@ After running all the file before we have to setup our enivironment first. They 
 ```
 pip install -r requirements.txt
 ```
+Github link: 
+https://github.com/ShuYangConlany/ec503_recommendation
+
+MIND dataset link:
+https://msnews.github.io/
+
+ML-100k dataset link:
+https://github.com/SudeshGowda/ml-100k-dataset
+
+Data process file: 
+ec503_recommendation/list_wise_new/preprocess.py
+
+supporting code:
+https://github.com/luozachary/drl-rec
