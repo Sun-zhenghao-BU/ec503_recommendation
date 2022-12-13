@@ -10,7 +10,7 @@ methods such as Q-learing, Deep Q Network (DQN), and Actor Critic. We will also 
 and compare the impact of different reward functions on different methods.
 
  ### 2.Qucik Start
- - ***DQN_Genre***:  
+ - ***DQN-genre***:  
 We implement the DQN to solve the recommendation based on the genre of the movie
  - ***DQN_new***:   
 We implement the DQN to slove the recommendation based on the rating history of the cutomer
